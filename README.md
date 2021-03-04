@@ -1,4 +1,4 @@
-# Michaljanocko Pilsner
+# 🍻 Pilsner
 
 ## How do I install these formulae?
 
