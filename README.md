@@ -1,0 +1,11 @@
+# Michaljanocko Pilsner
+
+## How do I install these formulae?
+
+`brew install michaljanocko/pilsner/<formula>`
+
+Or `brew tap michaljanocko/pilsner` and then `brew install <formula>`.
+
+## Documentation
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
